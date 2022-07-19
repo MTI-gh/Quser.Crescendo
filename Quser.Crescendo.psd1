@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) MICHIEL. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'This module displays session information of users logged onto a local or remote machine using the Windows native application "quser.exe".'
 
 # Minimum version of the PowerShell engine required by this module
 PowerShellVersion = '5.1.0'
